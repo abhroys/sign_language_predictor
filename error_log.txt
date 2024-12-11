@@ -1,0 +1,4 @@
+Error processing file D:\data_ISL\new_project\data_all\chalk\a1_v1.mp4: expected str, bytes or os.PathLike object, not NoneType
+Error processing file D:\data_ISL\new_project\data_all\chalk\a1_v1.mp4: expected str, bytes or os.PathLike object, not NoneType
+Error processing file D:\data_ISL\new_project\data_all\chalk\a1_v1.mp4: expected str, bytes or os.PathLike object, not NoneType
+Error processing file D:\data_ISL\new_project: D:\data_ISL\new_project file not found
